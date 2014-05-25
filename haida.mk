@@ -46,6 +46,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Hardware Info
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.device.rear_cam=5 MP Exmor R
-    ro.device.front_cam=1.3 MP
+    ro.device.rear_cam=5 MP Exmor R \
+    ro.device.front_cam=1.3 MP \
     ro.device.screen_res=480x854
